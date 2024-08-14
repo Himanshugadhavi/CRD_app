@@ -1,0 +1,6 @@
+pandas 
+statsmodels 
+scikit-posthocs 
+xlsxwriter 
+fpdf 
+openpyxl
